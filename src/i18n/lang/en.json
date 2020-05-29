@@ -1,0 +1,14 @@
+{
+    "app.title": "ToDoList",
+    "filter": "Filter tasks to do",
+    "todo": "To Do",
+    "done": "Done",
+    "loading": "Loading",
+    "loading.error": "Data loading failure",
+    "add": "Add",
+    "add.task": "Add a task",
+    "tasks": "task(s)",
+    "empty.list": "Empty list",
+    "come.on": "Come on, let's work",
+    "nothing.todo": "Yeah, nothing to do"
+}

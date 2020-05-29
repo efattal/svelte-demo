@@ -1,0 +1,14 @@
+{
+    "app.title": "ToDoList",
+    "filter": "Filtrer les tâches à faire",
+    "todo": "À faire",
+    "done": "Fait",
+    "loading": "Chargement en cours",
+    "loading.error": "Erreur au chargement des données",
+    "add": "Ajouter",
+    "add.task": "Ajouter une tâche",
+    "tasks": "tâche(s)",
+    "empty.list": "Liste vide",
+    "come.on": "Allez, au boulot",
+    "nothing.todo": "Super, plus rien à faire"
+}
