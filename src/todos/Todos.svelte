@@ -40,6 +40,6 @@
     <TodosTodo />
     <TodosDone />
   </div>
-{:catch}
-  <p class="error">{$_('loading.error')}}</p>
+{:catch err}
+  <p class="error">{$_('loading.error')}}: {err}</p>
 {/await}
