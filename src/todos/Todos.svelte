@@ -5,11 +5,6 @@
   import TodosTodo from './TodosTodo.svelte'
   import TodosDone from './TodosDone.svelte'
   import { todos, loadTodos } from './todos'
-
-  setContext({}, {
-    todos: $todos
-  })
-
 </script>
 
 <style>
